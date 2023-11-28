@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Welcome to my iOS Developer Playground 🚀
+### Welcome to my iOS Developer Playground 👨🏼‍💻
 Hey there! I'm Vito, a passionate and enthusiastic junior iOS developer excited about building amazing mobile experiences. 
 Welcome to my GitHub repository, where I showcase my projects, skills, and journey in the iOS development world. 
 Occasionally (which means a lot), I will also upload personal test apps to try out frameworks and features or just to have fun with TDD.
@@ -8,7 +8,7 @@ Occasionally (which means a lot), I will also upload personal test apps to try o
 ## About Me 🙋🏼‍♂️
 - 📱 Currently exploring the wonders of iOS development
 - 🎓 Graduated from the Istituto Tecnico Industriale Statale "L. Da Vinci" in Computer Science 
-- 🚀 Eager to contribute and learn from the vibrant iOS development community
+- 📚 Eager to contribute and learn from the vibrant iOS development community
 
 # Projects
 
@@ -112,6 +112,7 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
   - UIKit
   - SwiftUI
   - SwiftData
+  - UserNotifications
   - AVFoundations
   - MapKit
   - XCTest
