@@ -1,14 +1,17 @@
 ## Hi there 👋
 
 ### Welcome to my iOS Developer Playground 👨🏼‍💻
-Hey there! I'm Vito, a passionate and enthusiastic junior iOS developer excited about building amazing mobile experiences. 
-Welcome to my GitHub repository, where I showcase my projects, skills, and journey in the iOS development world. 
-Occasionally (which means a lot), I will also upload personal test apps to try out frameworks and features or just to have fun with TDD.
+Hey there! I'm Vito, a passionate and enthusiastic junior Swift and python developer excited about building amazing mobile experiences and cybersecurity. 
+Welcome to my GitHub repository, where I showcase my projects, skills, and journey in the development world. 
+Occasionally (aka a lot), I will also upload personal test apps to try out frameworks and features or just to have fun with new practices as I discover them.
 
 ## About Me 🙋🏼‍♂️
-- 📱 Currently exploring the wonders of iOS development
+- 🧩 Loves cracking and solving puzzles
+- 📱 Exploring the wonders of iOS development
+- 🔓 Discovering cybersecurity concepts and practices
 - 🎓 Graduated from the Istituto Tecnico Industriale Statale "L. Da Vinci" in Computer Science 
 - 📚 Eager to contribute and learn from the vibrant iOS development community
+- ⚔️ Prepping up for CTFs
 
 # Projects
 
@@ -106,9 +109,12 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
 
 - **Languages:**
   - Swift (Main)
+  - Python
+  - some HTML
   - Java (used for codewars katas, no git used)
 
 - **Frameworks/Libraries:**
+- Swift:
   - UIKit
   - SwiftUI
   - SwiftData
@@ -119,9 +125,21 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
   - CoreLocation
   - CoreImage / .CIFilterBuiltins
   - PhotosUI
+ 
+- Python:
+  - requests
+  - datetime
+  - sqlite3
+  - numpy
+  - panda
+  - matplotlib
+  - flask
+  - janji2
 
 - **Tools:**
   - Xcode
+  - Notepad++
+  - Py Editor
   - Git
   - RocketSim
   - Maccy
@@ -136,9 +154,9 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
 
 
 ## Learning Journey 📚📖
-I'm on a continuous learning journey, exploring new concepts and technologies. My goal is to become a proficient iOS developer, and I'm excited about every challenge that comes my way.
-Although I have no working experience of my own, I am dedicated to learn as much as I can to deliver quality apps with quality code. 
-The hope is to find employment as an iOS developer with a business who is willing to invest in new talent and believes in the benefits I will bring to the table.
+I'm on a continuous learning journey, exploring new concepts and technologies. My goal is to become a proficient developer and SOC Operator, and I'm excited about every challenge that comes my way.
+Although I have no working experience of my own, I am dedicated to learn as much as I can to deliver quality services and quality code. 
+The hope is to find employment as a developer or SOC operator with a business who is willing to invest in new talent and believes in the benefits I will bring to the table.
 
 ## Connect with Me 🔗
 - 💼 LinkedIn:([Vito Borghi](https://www.linkedin.com/in/vito-borghi/))
@@ -146,4 +164,4 @@ The hope is to find employment as an iOS developer with a business who is willin
 - 📫 Email: purview-joust.0x@icloud.com
 
 ## Let's Code Together! 👨🏼‍💻👨🏼‍💻👨🏼‍💻
-I'm always open to collaboration, learning opportunities, and connecting with fellow developers. Feel free to explore my projects, ask questions, or reach out for a chat. Let's build something amazing together! 🚀
+I'm always open to collaboration, learning opportunities, and connecting with fellow devs. Feel free to explore my projects, ask questions, or reach out for a chat. Let's build something amazing together! 🚀
