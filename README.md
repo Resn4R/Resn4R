@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Welcome to my iOS Developer Playground 👨🏼‍💻
+### Welcome to my Dev Playground 👨🏼‍💻
 Hey there! I'm Vito, a passionate and enthusiastic junior Swift and python developer excited about building amazing mobile experiences and cybersecurity. 
 Welcome to my GitHub repository, where I showcase my projects, skills, and journey in the development world. 
 Occasionally (aka a lot), I will also upload personal test apps to try out frameworks and features or just to have fun with new practices as I discover them.
