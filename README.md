@@ -1,17 +1,15 @@
 ## Hi there 👋
 
 ### Welcome to my Dev Playground 👨🏼‍💻
-Hey there! I'm Vito, a passionate and enthusiastic junior Swift and python developer excited about building amazing mobile experiences and cybersecurity. 
+Hey there! I'm Vito, a passionate and enthusiastic Swift developer excited about building amazing mobile experiences. 
 Welcome to my GitHub repository, where I showcase my projects, skills, and journey in the development world. 
 Occasionally (aka a lot), I will also upload personal test apps to try out frameworks and features or just to have fun with new practices as I discover them.
 
 ## About Me 🙋🏼‍♂️
 - 🧩 Loves cracking and solving puzzles
 - 📱 Exploring the wonders of iOS development
-- 🔓 Discovering cybersecurity concepts and practices
 - 🎓 Graduated from the Istituto Tecnico Industriale Statale "L. Da Vinci" in Computer Science 
 - 📚 Eager to contribute and learn from the vibrant iOS development community
-- ⚔️ Prepping up for CTFs
 
 # Projects
 
@@ -109,7 +107,7 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
 
 - **Languages:**
   - Swift (Main)
-  - Python
+  - Some Python
   - some HTML
   - Java (used for codewars katas, no git used)
 
@@ -119,6 +117,8 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
   - SwiftUI
   - SwiftData
   - UserNotifications
+  - LocalAuthentication
+  - Metal
   - AVFoundations
   - MapKit
   - XCTest
@@ -139,13 +139,15 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
 - **Tools:**
   - Xcode
   - Notepad++
+  - Fork
+  - Trello
   - Py Editor
   - Git
   - RocketSim
   - Maccy
   - Warp
 
-- **Designs:**
+- **Designs and Architectures:**
   - Builder
   - Factory Method
   - Adapter
@@ -154,9 +156,9 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
 
 
 ## Learning Journey 📚📖
-I'm on a continuous learning journey, exploring new concepts and technologies. My goal is to become a proficient developer and SOC Operator, and I'm excited about every challenge that comes my way.
+I'm on a continuous learning journey, exploring new concepts and technologies. My goal is to become a proficient developer, and I'm excited about every challenge that comes my way.
 Although I have no working experience of my own, I am dedicated to learn as much as I can to deliver quality services and quality code. 
-The hope is to find employment as a developer or SOC operator with a business who is willing to invest in new talent and believes in the benefits I will bring to the table.
+The hope is to find employment as a developer with a business who is willing to invest in new talent and believes in the benefits I will bring to the table.
 
 ## Connect with Me 🔗
 - 💼 LinkedIn:([Vito Borghi](https://www.linkedin.com/in/vito-borghi/))
