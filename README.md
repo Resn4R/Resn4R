@@ -9,7 +9,10 @@ Occasionally (aka a lot), I will also upload personal test apps to try out frame
 - 🧩 Loves cracking and solving puzzles
 - 📱 Exploring the wonders of iOS development
 - 🎓 Graduated from the Istituto Tecnico Industriale Statale "L. Da Vinci" in Computer Science 
-- 📚 Eager to contribute and learn from the vibrant iOS development community
+- 📈 Eager to contribute to the iOS development community
+- 📚 Always learning new things
+
+  <a href="https://app.daily.dev/vikbravo"><img src="https://api.daily.dev/devcards/v2/xQ1S6DM3HN6DccNg4xztm.png?type=wide&r=kdn" width="652" alt="Vik's Dev Card"/></a>
 
 # Projects
 
