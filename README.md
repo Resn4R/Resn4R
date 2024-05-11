@@ -1,18 +1,19 @@
 ## Hi there 👋
 
-### Welcome to my Dev Playground 👨🏼‍💻
-Hey there! I'm Vito, a passionate and enthusiastic Swift developer excited about building amazing mobile experiences. 
+### Welcome to my Playground 👨🏼‍💻
+Hey there! I'm Vito, a passionate and enthusiastic Swift developer and Cybersecurity engineer excited about building amazing mobile experiences and capture your flags. 
 Welcome to my GitHub repository, where I showcase my projects, skills, and journey in the development world. 
-Occasionally (aka a lot), I will also upload personal test apps to try out frameworks and features or just to have fun with new practices as I discover them.
+Occasionally (aka a lot), I will also upload personal test apps to try out scripts, frameworks and features or just to have fun with new practices as I discover them.
 
 ## About Me 🙋🏼‍♂️
 - 🧩 Loves cracking and solving puzzles
 - 📱 Exploring the wonders of iOS development
+- 🏴 Finding new ways to capture flags and keep mines
 - 🎓 Graduated from the Istituto Tecnico Industriale Statale "L. Da Vinci" in Computer Science 
-- 📈 Eager to contribute to the iOS development community
+- 📈 Eager to contribute to the tech community
 - 📚 Always learning new things
 
-# Projects
+# iOS Projects
 
 ## The Brewtherhood Loyalty Card
 This project represents a passionate exploration of iOS app development using Swift, SwiftUI and other frameworks. As an aspiring developer eager to learn and grow, this tech demo showcases the application of newly acquired skills and the enthusiasm to create an innovative loyalty card experience for users. Customers can earn points, rewards, and special offers through this app, encouraging repeat business and promoting brand loyalty.
@@ -157,9 +158,9 @@ This is a personal test to explore Swift's async await as well as AsyncImage. On
 
 
 ## Learning Journey 📚📖
-I'm on a continuous learning journey, exploring new concepts and technologies. My goal is to become a proficient developer, and I'm excited about every challenge that comes my way.
+I'm on a continuous learning journey, exploring new fields, concepts and technologies. My goal is to become a proficient developer/CSE, and I'm excited about every challenge that comes my way.
 Although I have no working experience of my own, I am dedicated to learn as much as I can to deliver quality services and quality code. 
-The hope is to find employment as a developer with a business who is willing to invest in new talent and believes in the benefits I will bring to the table.
+The hope is to find employment with a business who is willing to invest in new talent and believes in the benefits I will bring to the table.
 
 ## Connect with Me 🔗
 - 💼 LinkedIn:([Vito Borghi](https://www.linkedin.com/in/vito-borghi/))
@@ -167,4 +168,4 @@ The hope is to find employment as a developer with a business who is willing to 
 - 📫 Email: purview-joust.0x@icloud.com
 
 ## Let's Code Together! 👨🏼‍💻👨🏼‍💻👨🏼‍💻
-I'm always open to collaboration, learning opportunities, and connecting with fellow devs. Feel free to explore my projects, ask questions, or reach out for a chat. Let's build something amazing together! 🚀
+I'm always open to collaboration, learning opportunities, and connecting with fellow devs. Feel free to explore my projects, ask questions, or reach out for a chat. Let's build something amazing together! 
